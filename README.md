@@ -1,6 +1,6 @@
 # InvisaInk - Protect Your Visual Content from AI Exploitation
 
-![InvisaInk Logo](https://via.placeholder.com/800x200?text=InvisaInk)
+![InvisaInk Logo](public/logo.png)
 
 ## 📋 Overview
 
